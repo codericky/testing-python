@@ -16,4 +16,3 @@ def tambah(a, b, c):
 
 jumlah = tambah(3, 5, 2)
 print("Hasilnya adalah:", jumlah)  
-# Output: 8:4=2
